@@ -1,0 +1,1246 @@
+[
+  {
+    "FIGString": "4-o",
+    "name": "Back tuck",
+    "altname": "Front tuck",
+    "dd": 0.5
+  },
+  {
+    "FIGString": "4-<",
+    "name": "Back pike",
+    "altname": "Front pike",
+    "dd": 0.6
+  },
+  {
+    "FIGString": "4-/",
+    "name": "Back straight",
+    "altname": "Front straight",
+    "dd": 0.6
+  },
+  {
+    "FIGString": "41o",
+    "name": "Barani tuck",
+    "altname": "Back half tuck",
+    "dd": 0.7
+  },
+  {
+    "FIGString": "41<",
+    "name": "Barani pike",
+    "altname": "Back half pike",
+    "dd": 0.7
+  },
+  {
+    "FIGString": "41/",
+    "name": "Barani straight",
+    "altname": "Back half straight",
+    "dd": 0.7
+  },
+  {
+    "FIGString": "42/",
+    "name": "Back Full",
+    "altname": "Front Full",
+    "dd": 0.9
+  },
+  {
+    "FIGString": "43/",
+    "name": "Rudi straight",
+    "altname": "Back 3/2",
+    "dd": 1.2
+  },
+  {
+    "FIGString": "44/",
+    "name": "Double Full",
+    "altname": "Double front full",
+    "dd": 1.5
+  },
+  { "FIGString": "45/", "name": "Randi", "altname": "Back 5/2", "dd": 1.9 },
+  {
+    "FIGString": "46/",
+    "name": "Triple Full",
+    "altname": "Triple front Full",
+    "dd": 2.3
+  },
+  { "FIGString": "47/", "name": "Addy", "altname": "Back 7/2", "dd": 2.8 },
+  {
+    "FIGString": "48/",
+    "name": "Quadruple Full",
+    "altname": "Quadruple front full",
+    "dd": 3.3
+  },
+  {
+    "FIGString": "8--o",
+    "name": "Double tuck",
+    "altname": "Double front tuck",
+    "dd": 2
+  },
+  {
+    "FIGString": "8--<",
+    "name": "Double pike",
+    "altname": "Double front pike",
+    "dd": 2.4
+  },
+  {
+    "FIGString": "8--/",
+    "name": "Double straight",
+    "altname": "Double front straight",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "81-o",
+    "name": "Half-in tuck",
+    "altname": "Arabian Double Front tuck",
+    "dd": 2.4
+  },
+  {
+    "FIGString": "81-<",
+    "name": "Half-in pike",
+    "altname": "Arabian Double Front pike",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "81-/",
+    "name": "Half-in straight",
+    "altname": "Arabian Double Front straight",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "8-1o",
+    "name": "Half-out tuck",
+    "altname": "Biles tuck",
+    "dd": 2.4
+  },
+  {
+    "FIGString": "8-1<",
+    "name": "Half-out pike",
+    "altname": "Biles pike",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "8-1/",
+    "name": "Half-out straight",
+    "altname": "Biles straight",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "82-o",
+    "name": "Full-in tuck",
+    "altname": "Front full-in tuck",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "82-<",
+    "name": "Full-in pike",
+    "altname": "Front full-in pike",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "82-/",
+    "name": "Full-in straight",
+    "altname": "Front full-in straight",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "8-2o",
+    "name": "Full-out tuck",
+    "altname": "Front full-out tuck",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "8-2<",
+    "name": "Full-out pike",
+    "altname": "Front full-out pike",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "8-2/",
+    "name": "Full-out straight",
+    "altname": "Front full-out straight",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "821o",
+    "name": "Full-half tuck",
+    "altname": "Full-in Half-out tuck",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "821<",
+    "name": "Full-half pike",
+    "altname": "Full-in Half-out pike",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "821/",
+    "name": "Full-half straight",
+    "altname": "Full-in Half-out straight",
+    "dd": 4
+  },
+  {
+    "FIGString": "812o",
+    "name": "Half-full tuck",
+    "altname": "Half-full tuck",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "812<",
+    "name": "Half-full pike",
+    "altname": "Half-full pike",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "812/",
+    "name": "Half-full straight",
+    "altname": "Half-full straight",
+    "dd": 4
+  },
+  {
+    "FIGString": "811o",
+    "name": "Half-half tuck",
+    "altname": "Front half-half tuck",
+    "dd": 2.8
+  },
+  {
+    "FIGString": "811<",
+    "name": "Half-half pike",
+    "altname": "Front half-half pike",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "811/",
+    "name": "Half-half straight",
+    "altname": "Front half-half straight",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "822o",
+    "name": "Full-Full tuck",
+    "altname": "Front full-full tuck",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "822<",
+    "name": "Full-Full pike",
+    "altname": "Front full-full pike",
+    "dd": 4
+  },
+  {
+    "FIGString": "822/",
+    "name": "Full-Full straight",
+    "altname": "Front full-full straight",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "83-o",
+    "name": "Rudi-in tuck",
+    "altname": "3/2-in back tuck",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "83-<",
+    "name": "Rudi-in pike",
+    "altname": "3/2-in back pike",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "83-/",
+    "name": "Rudi-in straight",
+    "altname": "3/2-in back straight",
+    "dd": 4
+  },
+  {
+    "FIGString": "8-3o",
+    "name": "Rudi-out tuck",
+    "altname": "3/2-out back tuck",
+    "dd": 3.2
+  },
+  {
+    "FIGString": "8-3<",
+    "name": "Rudi-out pike",
+    "altname": "3/2-out back pike",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "8-3/",
+    "name": "Rudi-out straight",
+    "altname": "3/2-out back straight",
+    "dd": 4
+  },
+  {
+    "FIGString": "8-4o",
+    "name": "Double full out tuck",
+    "altname": "Front double full out tuck",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "8-4<",
+    "name": "Double full out pike",
+    "altname": "Front double full out pike",
+    "dd": 4
+  },
+  {
+    "FIGString": "8-4/",
+    "name": "Double full out straight",
+    "altname": "Front double full out straight",
+    "dd": 4.4
+  },
+  { "FIGString": "813o", "name": "Half-rudi tuck", "altname": "", "dd": 3.6 },
+  { "FIGString": "813<", "name": "Half-rudi pike", "altname": "", "dd": 4 },
+  {
+    "FIGString": "813/",
+    "name": "Half-rudi straight",
+    "altname": "",
+    "dd": 4.4
+  },
+  { "FIGString": "831o", "name": "Full-full tuck", "altname": "", "dd": 3.6 },
+  { "FIGString": "831<", "name": "Full-full pike", "altname": "", "dd": 4 },
+  {
+    "FIGString": "831/",
+    "name": "Full-full straight",
+    "altname": "",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "84-o",
+    "name": "Double full in tuck",
+    "altname": "Front double full in tuck",
+    "dd": 3.6
+  },
+  {
+    "FIGString": "84-<",
+    "name": "Double full in pike",
+    "altname": "Front double full in pike",
+    "dd": 4
+  },
+  {
+    "FIGString": "84-/",
+    "name": "Double full in straight",
+    "altname": "Front double full in straight",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "85-o",
+    "name": "Randi-in tuck",
+    "altname": "5/2-in back tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "85-<",
+    "name": "Randi-in pike",
+    "altname": "5/2-in back pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "85-/",
+    "name": "Randi-in straight",
+    "altname": "5/2-in back straight",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "841o",
+    "name": "Full-rudi tuck",
+    "altname": "Full-3/2 tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "841<",
+    "name": "Full-rudi pike",
+    "altname": "Full-3/2 pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "841/",
+    "name": "Full-rudi straight",
+    "altname": "Full-3/2 straight",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "832o",
+    "name": "Full-rudi tuck",
+    "altname": "Full-3/3 tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "832<",
+    "name": "Full-rudi pike",
+    "altname": "Full-3/3 pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "832/",
+    "name": "Full-rudi straight",
+    "altname": "Full-3/3 straight",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "823o",
+    "name": "Full-rudi tuck",
+    "altname": "Full-3/4 tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "823<",
+    "name": "Full-rudi pike",
+    "altname": "Full-3/4 pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "823/",
+    "name": "Full-rudi straight",
+    "altname": "Full-3/4 straight",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "814o",
+    "name": "Full-rudi tuck",
+    "altname": "Full-3/5 tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "814<",
+    "name": "Full-rudi pike",
+    "altname": "Full-3/5 pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "814/",
+    "name": "Full-rudi straight",
+    "altname": "Full-3/5 straight",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "8-5o",
+    "name": "Randi-out tuck",
+    "altname": "5/2-out back tuck",
+    "dd": 4
+  },
+  {
+    "FIGString": "8-5<",
+    "name": "Randi-out pike",
+    "altname": "5/2-out back pike",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "8-5/",
+    "name": "Randi-out straight",
+    "altname": "5/2-out back straight",
+    "dd": 4.8
+  },
+  { "FIGString": "815o", "name": "Half-randi tuck", "altname": "", "dd": 4.4 },
+  { "FIGString": "815<", "name": "Half-randi pike", "altname": "", "dd": 4.8 },
+  {
+    "FIGString": "815/",
+    "name": "Half-randi straight",
+    "altname": "",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "824o",
+    "name": "Miller tuck",
+    "altname": "Front miller tuck",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "824<",
+    "name": "Miller pike",
+    "altname": "Front miller pike",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "824/",
+    "name": "Miller straight",
+    "altname": "Front miller straight",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "833o",
+    "name": "Miller tuck",
+    "altname": "Front miller tuck",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "833<",
+    "name": "Miller pike",
+    "altname": "Front miller pike",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "833/",
+    "name": "Miller straight",
+    "altname": "Front miller straight",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "842o",
+    "name": "Miller tuck",
+    "altname": "Front miller tuck",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "842<",
+    "name": "Miller pike",
+    "altname": "Front miller pike",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "842/",
+    "name": "Miller straight",
+    "altname": "Front miller straight",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "851o",
+    "name": "Miller tuck",
+    "altname": "Front miller tuck",
+    "dd": 4.4
+  },
+  {
+    "FIGString": "851<",
+    "name": "Miller pike",
+    "altname": "Front miller pike",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "851/",
+    "name": "Miller straight",
+    "altname": "Front miller straight",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "825o",
+    "name": "Full-randi tuck",
+    "altname": "Vachon tuck",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "825<",
+    "name": "Full-randi pike",
+    "altname": "Vachon pike",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "825/",
+    "name": "Full-randi straight",
+    "altname": "Vachon straight",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "834o",
+    "name": "Full-randi tuck",
+    "altname": "Vachon tuck",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "834<",
+    "name": "Full-randi pike",
+    "altname": "Vachon pike",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "834/",
+    "name": "Full-randi straight",
+    "altname": "Vachon straight",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "843o",
+    "name": "Full-randi tuck",
+    "altname": "Vachon tuck",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "843<",
+    "name": "Full-randi pike",
+    "altname": "Vachon pike",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "843/",
+    "name": "Full-randi straight",
+    "altname": "Vachon straight",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "852o",
+    "name": "Full-randi tuck",
+    "altname": "Vachon tuck",
+    "dd": 4.8
+  },
+  {
+    "FIGString": "852<",
+    "name": "Full-randi pike",
+    "altname": "Vachon pike",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "852/",
+    "name": "Full-randi straight",
+    "altname": "Vachon straight",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "826o",
+    "name": "Miller Plus tuck",
+    "altname": "Front Miller Plus tuck",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "826<",
+    "name": "Miller Plus pike",
+    "altname": "Front Miller Plus pike",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "826/",
+    "name": "Miller Plus straight",
+    "altname": "Front Miller Plus straight",
+    "dd": 6
+  },
+  {
+    "FIGString": "835o",
+    "name": "Miller Plus tuck",
+    "altname": "Front Miller Plus tuck",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "835<",
+    "name": "Miller Plus pike",
+    "altname": "Front Miller Plus pike",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "835/",
+    "name": "Miller Plus straight",
+    "altname": "Front Miller Plus straight",
+    "dd": 6
+  },
+  {
+    "FIGString": "844o",
+    "name": "Miller Plus tuck",
+    "altname": "Front Miller Plus tuck",
+    "dd": 6
+  },
+  {
+    "FIGString": "844<",
+    "name": "Miller Plus pike",
+    "altname": "Front Miller Plus pike",
+    "dd": 6
+  },
+  {
+    "FIGString": "844/",
+    "name": "Miller Plus straight",
+    "altname": "Front Miller Plus straight",
+    "dd": 6
+  },
+  {
+    "FIGString": "853o",
+    "name": "Miller Plus tuck",
+    "altname": "Front Miller Plus tuck",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "853<",
+    "name": "Miller Plus pike",
+    "altname": "Front Miller Plus pike",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "853/",
+    "name": "Miller Plus straight",
+    "altname": "Front Miller Plus straight",
+    "dd": 6
+  },
+  {
+    "FIGString": "862o",
+    "name": "Miller Plus tuck",
+    "altname": "Front Miller Plus tuck",
+    "dd": 5.2
+  },
+  {
+    "FIGString": "862<",
+    "name": "Miller Plus pike",
+    "altname": "Front Miller Plus pike",
+    "dd": 5.6
+  },
+  {
+    "FIGString": "862/",
+    "name": "Miller Plus straight",
+    "altname": "Front Miller Plus straight",
+    "dd": 6
+  },
+  {
+    "FIGString": "855o",
+    "name": "Miller Plus Plus tuck",
+    "altname": "Front Miller Plus Plus tuck",
+    "dd": 6
+  },
+  {
+    "FIGString": "855<",
+    "name": "Miller Plus Plus pike",
+    "altname": "Front Miller Plus Plus pike",
+    "dd": 6.4
+  },
+  {
+    "FIGString": "855/",
+    "name": "Miller Plus Plus straight",
+    "altname": "Front Miller Plus Plus straight",
+    "dd": 6.8
+  },
+  {
+    "FIGString": "12---o",
+    "name": "Triple tuck",
+    "altname": "Triple front tuck",
+    "dd": 4.5
+  },
+  {
+    "FIGString": "12---<",
+    "name": "Triple pike",
+    "altname": "Triple front pike",
+    "dd": 5.3
+  },
+  {
+    "FIGString": "12---/",
+    "name": "Triple straight",
+    "altname": "Triple front straight",
+    "dd": 6.1
+  },
+  {
+    "FIGString": "121--o",
+    "name": "Half-in triple tuck",
+    "altname": "Arabian Triple Front tuck",
+    "dd": 5.1
+  },
+  {
+    "FIGString": "121--<",
+    "name": "Half-in triple pike",
+    "altname": "Arabian Triple Front pike",
+    "dd": 5.9
+  },
+  {
+    "FIGString": "121--/",
+    "name": "Half-in triple straight",
+    "altname": "Arabian Triple Front straight",
+    "dd": 6.7
+  },
+  {
+    "FIGString": "12-1-o",
+    "name": "Fliffus-in  tuck",
+    "altname": "",
+    "dd": 5.1
+  },
+  {
+    "FIGString": "12-1-<",
+    "name": "Fliffus-in  pike",
+    "altname": "",
+    "dd": 5.9
+  },
+  {
+    "FIGString": "12-1-/",
+    "name": "Fliffus-in  straight",
+    "altname": "",
+    "dd": 6.7
+  },
+  {
+    "FIGString": "12--1o",
+    "name": "Triff tuck",
+    "altname": "Triple back half-out tuck",
+    "dd": 5.1
+  },
+  {
+    "FIGString": "12--1<",
+    "name": "Triff pike",
+    "altname": "Triple back half-out pike",
+    "dd": 5.9
+  },
+  {
+    "FIGString": "12--1/",
+    "name": "Triff straight",
+    "altname": "Triple back half-out straight",
+    "dd": 6.7
+  },
+  {
+    "FIGString": "1211-o",
+    "name": "Half-half-in tuck",
+    "altname": "",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "1211-<",
+    "name": "Half-half-in pike",
+    "altname": "",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "1211-/",
+    "name": "Half-half-in straight",
+    "altname": "",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "121-1o",
+    "name": "Half-triff tuck",
+    "altname": "",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "121-1<",
+    "name": "Half-triff pike",
+    "altname": "",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "121-1/",
+    "name": "Half-triff straight",
+    "altname": "",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "12-11o",
+    "name": "Half-half-out tuck",
+    "altname": "",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "12-11<",
+    "name": "Half-half-out pike",
+    "altname": "",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "12-11/",
+    "name": "Half-half-out straight",
+    "altname": "",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "122--o",
+    "name": "Full-in triple tuck",
+    "altname": "Full-in triple front tuck",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "122--<",
+    "name": "Full-in triple pike",
+    "altname": "Full-in triple front pike",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "122--/",
+    "name": "Full-in triple straight",
+    "altname": "Full-in triple front straight",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "12-2-o",
+    "name": "Back-full-back tuck",
+    "altname": "",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "12-2-<",
+    "name": "Back-full-back pike",
+    "altname": "",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "12-2-/",
+    "name": "Back-full-back straight",
+    "altname": "",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "12-21o",
+    "name": "Front-full-half tuck",
+    "altname": "",
+    "dd": 6.3
+  },
+  {
+    "FIGString": "12-21<",
+    "name": "Front-full-half pike",
+    "altname": "",
+    "dd": 7.1
+  },
+  {
+    "FIGString": "12-21/",
+    "name": "Front-full-half straight",
+    "altname": "",
+    "dd": 7.9
+  },
+  {
+    "FIGString": "12--2o",
+    "name": "Full-out triple tuck",
+    "altname": "",
+    "dd": 5.7
+  },
+  {
+    "FIGString": "12--2<",
+    "name": "Full-out triple pike",
+    "altname": "",
+    "dd": 6.5
+  },
+  {
+    "FIGString": "12--2/",
+    "name": "Full-out triple straight",
+    "altname": "",
+    "dd": 7.3
+  },
+  {
+    "FIGString": "12--3o",
+    "name": "Triff Rudi-out tuck",
+    "altname": "",
+    "dd": 6.3
+  },
+  {
+    "FIGString": "12--3<",
+    "name": "Triff Rudi-out pike",
+    "altname": "",
+    "dd": 7.1
+  },
+  {
+    "FIGString": "12--3/",
+    "name": "Triff Rudi-out straight",
+    "altname": "",
+    "dd": 7.9
+  },
+  {
+    "FIGString": "122-1o",
+    "name": "Full-front-half tuck",
+    "altname": "Full-in triple half out tuck",
+    "dd": 6.3
+  },
+  {
+    "FIGString": "122-1<",
+    "name": "Full-front-half pike",
+    "altname": "Full-in triple half out pike",
+    "dd": 7.1
+  },
+  {
+    "FIGString": "122-1/",
+    "name": "Full-front-half straight",
+    "altname": "Full-in triple half out straight",
+    "dd": 7.9
+  },
+  {
+    "FIGString": "12111o",
+    "name": "Half-half-half tuck",
+    "altname": "",
+    "dd": 6.3
+  },
+  {
+    "FIGString": "12111<",
+    "name": "Half-half-half pike",
+    "altname": "",
+    "dd": 7.1
+  },
+  {
+    "FIGString": "12111/",
+    "name": "Half-half-half straight",
+    "altname": "",
+    "dd": 7.9
+  },
+  {
+    "FIGString": "1221-o",
+    "name": "Full-half-in tuck",
+    "altname": "",
+    "dd": 6.3
+  },
+  {
+    "FIGString": "1221-<",
+    "name": "Full-half-in pike",
+    "altname": "",
+    "dd": 7.1
+  },
+  {
+    "FIGString": "1221-/",
+    "name": "Full-half-in straight",
+    "altname": "",
+    "dd": 7.9
+  },
+  {
+    "FIGString": "1222-o",
+    "name": "Full-full-in tuck",
+    "altname": "",
+    "dd": 6.9
+  },
+  {
+    "FIGString": "1222-<",
+    "name": "Full-full-in pike",
+    "altname": "",
+    "dd": 7.7
+  },
+  {
+    "FIGString": "1222-/",
+    "name": "Full-full-in straight",
+    "altname": "",
+    "dd": 8.5
+  },
+  {
+    "FIGString": "122-2o",
+    "name": "Full-back-full tuck",
+    "altname": "",
+    "dd": 6.9
+  },
+  {
+    "FIGString": "122-2<",
+    "name": "Full-back-full pike",
+    "altname": "",
+    "dd": 7.7
+  },
+  {
+    "FIGString": "122-2/",
+    "name": "Full-back-full straight",
+    "altname": "",
+    "dd": 8.5
+  },
+  {
+    "FIGString": "12-22o",
+    "name": "Full-full-out tuck",
+    "altname": "",
+    "dd": 6.9
+  },
+  {
+    "FIGString": "12-22<",
+    "name": "Full-full-out pike",
+    "altname": "",
+    "dd": 7.7
+  },
+  {
+    "FIGString": "12-22/",
+    "name": "Full-full-out straight",
+    "altname": "",
+    "dd": 8.5
+  },
+  {
+    "FIGString": "121-3o",
+    "name": "Half-triff-rudi tuck",
+    "altname": "",
+    "dd": 6.9
+  },
+  {
+    "FIGString": "121-3<",
+    "name": "Half-triff-rudi pike",
+    "altname": "",
+    "dd": 7.7
+  },
+  {
+    "FIGString": "121-3/",
+    "name": "Half-triff-rudi straight",
+    "altname": "",
+    "dd": 8.5
+  },
+  {
+    "FIGString": "123-1o",
+    "name": "3/2-in triff tuck",
+    "altname": "",
+    "dd": 6.9
+  },
+  {
+    "FIGString": "123-1<",
+    "name": "3/2-in triff pike",
+    "altname": "",
+    "dd": 7.7
+  },
+  {
+    "FIGString": "123-1/",
+    "name": "3/2-in triff straight",
+    "altname": "",
+    "dd": 8.5
+  },
+  {
+    "FIGString": "122-3o",
+    "name": "Full-front-rudi tuck",
+    "altname": "",
+    "dd": 7.5
+  },
+  {
+    "FIGString": "122-3<",
+    "name": "Full-front-rudi pike",
+    "altname": "",
+    "dd": 8.3
+  },
+  {
+    "FIGString": "122-3/",
+    "name": "Full-front-rudi straight",
+    "altname": "",
+    "dd": 9.1
+  },
+  {
+    "FIGString": "12-23o",
+    "name": "Front-full-rudi tuck",
+    "altname": "",
+    "dd": 7.5
+  },
+  {
+    "FIGString": "12-23<",
+    "name": "Front-full-rudi pike",
+    "altname": "",
+    "dd": 8.3
+  },
+  {
+    "FIGString": "12-23/",
+    "name": "Front-full-rudi straight",
+    "altname": "",
+    "dd": 9.1
+  },
+  {
+    "FIGString": "12--5o",
+    "name": "Triff-randi tuck",
+    "altname": "",
+    "dd": 7.5
+  },
+  {
+    "FIGString": "12--5<",
+    "name": "Triff-randi pike",
+    "altname": "",
+    "dd": 8.3
+  },
+  {
+    "FIGString": "12--5/",
+    "name": "Triff-randi straight",
+    "altname": "",
+    "dd": 9.1
+  },
+  {
+    "FIGString": "12221o",
+    "name": "Full-full-half tuck",
+    "altname": "",
+    "dd": 7.5
+  },
+  {
+    "FIGString": "12221<",
+    "name": "Full-full-half pike",
+    "altname": "",
+    "dd": 8.3
+  },
+  {
+    "FIGString": "12221/",
+    "name": "Full-full-half straight",
+    "altname": "",
+    "dd": 9.1
+  },
+  {
+    "FIGString": "12222o",
+    "name": "Full-full-full tuck",
+    "altname": "",
+    "dd": 8.1
+  },
+  {
+    "FIGString": "12222<",
+    "name": "Full-full-full pike",
+    "altname": "",
+    "dd": 8.9
+  },
+  {
+    "FIGString": "12222/",
+    "name": "Full-full-full straight",
+    "altname": "",
+    "dd": 9.7
+  },
+  {
+    "FIGString": "16----o",
+    "name": "Quadruple tuck",
+    "altname": "Quadruple front tuck",
+    "dd": 8
+  },
+  {
+    "FIGString": "16----<",
+    "name": "Quadruple pike",
+    "altname": "Quadruple front pike",
+    "dd": 9.6
+  },
+  {
+    "FIGString": "16----/",
+    "name": "Quadruple straight",
+    "altname": "Quadruple front straight",
+    "dd": 10.4
+  },
+  {
+    "FIGString": "16---1o",
+    "name": "Quadriffus tuck",
+    "altname": "",
+    "dd": 8.8
+  },
+  {
+    "FIGString": "16---1<",
+    "name": "Quadriffus pike",
+    "altname": "",
+    "dd": 10.4
+  },
+  {
+    "FIGString": "16---1/",
+    "name": "Quadriffus straight",
+    "altname": "",
+    "dd": 11.2
+  },
+  {
+    "FIGString": "16---3o",
+    "name": "Quadriffus-rudi tuck",
+    "altname": "",
+    "dd": 10.4
+  },
+  {
+    "FIGString": "16---3<",
+    "name": "Quadriffus-rudi pike",
+    "altname": "",
+    "dd": 12
+  },
+  {
+    "FIGString": "16---3/",
+    "name": "Quadriffus-rudi straight",
+    "altname": "",
+    "dd": 12.8
+  },
+  {
+    "FIGString": "162--1o",
+    "name": "Full-front-front-half tuck",
+    "altname": "",
+    "dd": 10.4
+  },
+  {
+    "FIGString": "162--1<",
+    "name": "Full-front-front-half pike",
+    "altname": "",
+    "dd": 12
+  },
+  {
+    "FIGString": "162--1/",
+    "name": "Full-front-front-half straight",
+    "altname": "",
+    "dd": 12.8
+  },
+  {
+    "FIGString": "162---o",
+    "name": "Full-in quadruple tuck",
+    "altname": "",
+    "dd": 9.6
+  },
+  {
+    "FIGString": "162---<",
+    "name": "Full-in quadruple pike",
+    "altname": "",
+    "dd": 11.2
+  },
+  {
+    "FIGString": "162---/",
+    "name": "Full-in quadruple straight",
+    "altname": "",
+    "dd": 12
+  },
+  {
+    "FIGString": "161---1o",
+    "name": "Half-qaudriffus tuck",
+    "altname": "",
+    "dd": 9.6
+  },
+  {
+    "FIGString": "161---1<",
+    "name": "Half-qaudriffus pike",
+    "altname": "",
+    "dd": 11.2
+  },
+  {
+    "FIGString": "161---1/",
+    "name": "Half-qaudriffus straight",
+    "altname": "",
+    "dd": 12
+  }
+]

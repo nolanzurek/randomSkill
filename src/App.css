@@ -1,0 +1,397 @@
+.App {
+  text-align: center;
+}
+
+.App-logo {
+  height: 40vmin;
+  pointer-events: none;
+}
+
+@media (prefers-reduced-motion: no-preference) {
+  .App-logo {
+    animation: App-logo-spin infinite 20s linear;
+  }
+}
+
+.App-header {
+  background-color: #282c34;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  font-size: calc(10px + 2vmin);
+  color: white;
+}
+
+.App-link {
+  color: #61dafb;
+}
+
+@keyframes App-logo-spin {
+  from {
+    transform: rotate(0deg);
+  }
+  to {
+    transform: rotate(360deg);
+  }
+}
+
+/* curRoutineTitle
+skillRow
+skill1
+skill2
+skillNameEntry
+ddEntry
+totalRow
+totalEntry */
+
+.curRoutineTitle,
+.historyTitle,
+.settingsTitle {
+  color: white;
+  background: black;
+  min-height: 10vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  font-size: 3vw;
+  border-radius: 2vw 2vw 0px 00px;
+  margin-top: 3vw;
+}
+
+.curRoutineTitle {
+  margin-top: 0px;
+}
+
+.curRoutineTitle h2,
+.historyTitle h2,
+.settingsTitle h2 {
+  margin: 0px;
+}
+
+.skillRow,
+.routineRow {
+  min-height: 20vw;
+}
+
+#skill1 {
+  background: #43b0f1;
+}
+
+#skill2 {
+  background: #057dcd;
+}
+
+.skillNameEntry,
+.routineNameEntry {
+  float: left;
+  padding: 2vw;
+}
+
+.skillNameEntry h3 {
+  margin: 0px;
+  font-size: 6vw;
+  text-align: left;
+  text-transform: titlecase;
+}
+
+.skillNameEntry p,
+.routineNameEntry p {
+  margin: 0px;
+  font-size: 4.5vw;
+  float: left;
+  font-style: italic;
+}
+
+.ddEntry {
+  float: right;
+  background: white;
+  height: 16vw;
+  width: 16vw;
+  margin: 2vw;
+  border-radius: 1.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.skillddEntry {
+  float: right;
+  background: white;
+  height: 16vw;
+  width: 16vw;
+  margin: 2vw;
+  border-radius: 1.5vw;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  position: absolute;
+  right: 4vw;
+}
+
+/* 
+
+display: flex;
+  justify-content: center;
+  align-items: center;
+
+*/
+
+.ddEntry p {
+  font-size: 8vw;
+  font-weight: 700;
+  padding-bottom: 1vw;
+  vertical-align: middle;
+}
+
+.totalRow {
+  background: #1e3d58;
+  color: white;
+  border-radius: 0px 00px 2vw 2vw;
+}
+
+.totalRow .ddEntry {
+  background: #1e3d58;
+  color: white;
+}
+
+#curRoutineHolder,
+#historyHolder #settingsHolder {
+  border-radius: 10px;
+}
+
+body {
+  padding: 4vw;
+}
+
+#newButton {
+  width: 100%;
+  height: 16vw;
+
+  border-radius: 2vw;
+  border: none;
+  font-size: 12vw;
+  background-color: #cccccf;
+  color: #33333f;
+}
+
+#newButton:hover {
+  background-color: #aaaaaf;
+  color: #11111f;
+  cursor: pointer;
+}
+
+#newButton:active {
+  background-color: #33333f;
+  color: #aaaaaf;
+}
+
+.completeRow {
+  background-color: #b1ec8a;
+}
+
+.failRow {
+  background-color: #ffacb0;
+}
+
+.skipRow {
+  background-color: #c9c9c9;
+}
+
+#historyItems {
+  max-height: 60vw;
+  overflow-y: scroll;
+  overflow-x: hidden;
+}
+
+::-webkit-scrollbar {
+  display: none;
+}
+
+#settingsBody {
+  background: #cccccf;
+  font-size: 4.5vw;
+  justify-content: left;
+  text-align: left;
+  padding: 2.5vw;
+  border-radius: 0px 0px 2vw 2vw;
+}
+
+.checkbox {
+  width: 3.2vw;
+  height: 3.2vw;
+  margin: 2vw 2vw 0vw 2vw;
+}
+
+#checkboxList {
+  list-style: none;
+  margin: 0;
+  margin-left: -5vw;
+  margin-bottom: 1vw;
+}
+
+.settingsTextInput {
+  font-size: 8vw;
+  width: 33.333%;
+  margin: 0;
+  padding: 0;
+  margin-bottom: 2.5vw;
+  outline: none;
+  border: none;
+  height: 16vw;
+  font-weight: 700;
+}
+
+#maxTotalDDinput {
+  width: 100%;
+  margin-bottom: 0;
+  border-radius: 2vw 2vw 0px 0px;
+  background: white;
+}
+
+#maxMountDDInput {
+  border-radius: 0vw 0px 0px 2vw;
+  background: #616161;
+}
+
+#maxSpotterDDInput {
+  background: #616161;
+}
+
+#maxDismountDDInput {
+  border-radius: 0vw 0px 2vw 0vw;
+  background: #000000;
+}
+
+#settingsTextSubInputs input::placeholder {
+  font-size: 3vw;
+  line-height: 1;
+  text-align: center;
+  position: relative;
+  top: -1.5vw;
+}
+
+#settingsTextSubInputs input {
+  text-align: center;
+}
+
+#settingsTextSubInputs {
+  width: 100%;
+}
+
+#settingsTextInputContainer {
+  width: 100%;
+}
+
+.settingsTextInput::placeholder {
+  color: #cccccf;
+  padding: 10px;
+}
+
+#actionBar {
+  width: 100%;
+  height: 16vw;
+
+  border-radius: 2vw;
+  border: none;
+  font-size: 12vw;
+  margin-top: 3vw;
+}
+
+.actionBarButton {
+  height: 16vw;
+  width: 33.33%;
+  border: none;
+  font-size: 6vw;
+}
+
+.actionBarButton:hover {
+  background-color: #aaaaaf;
+  color: #11111f;
+  cursor: pointer;
+}
+
+.actionBarButton:active {
+  background-color: #33333f;
+  color: #aaaaaf;
+}
+
+#completeButton {
+  background-color: #08cd05;
+  border-radius: 2vw 0px 0px 2vw;
+}
+
+#completeButton:hover {
+  background-color: #43b0f1;
+}
+
+#completeButton:active {
+  background-color: #00ff00;
+}
+
+#failButton {
+  background-color: #cd2a05;
+}
+
+#failButton:hover {
+  background-color: #ff0000;
+}
+
+#failButton:active {
+  background-color: #ff0000;
+}
+
+#skipButton {
+  background-color: grey;
+  border-radius: 0px 2vw 2vw 0px;
+}
+
+#skipButton:hover {
+  background-color: #aaaaaf;
+}
+
+#skipButton:active {
+  background-color: #aaaaaf;
+}
+
+.actionButtonIcon {
+  width: 10vw;
+  height: 10vw;
+  margin-top: 1vw;
+}
+
+.FIGString {
+  padding-right: 3vw;
+}
+
+p.spotterTag,
+p.blindTag {
+  font-style: normal;
+  padding: 0.8vw;
+  background: white;
+  line-height: 1;
+  border-radius: 2vw;
+  margin-top: 0.2vw;
+}
+
+p.spotterTag {
+  color: black;
+}
+
+p.blindTag {
+  color: black;
+  margin-right: 1.5vw;
+}
+
+/* Chrome, Safari, Edge, Opera */
+input::-webkit-outer-spin-button,
+input::-webkit-inner-spin-button {
+  -webkit-appearance: none;
+  margin: 0;
+}
+
+/* Firefox */
+input[type="number"] {
+  -moz-appearance: textfield;
+}

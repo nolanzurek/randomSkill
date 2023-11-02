@@ -1,0 +1,25 @@
+- advanced mode checkbox
+- no skill repeats
+- calculate next result and store it
+- make "click on button to create routine" thing
+- optimization: store the dd-filtered version separately since this is unlikely to be changed often and will likely eliminate a lot of skills
+- add an "I can't do this skill button" that saves a list of skills that can't be done to local storage
+  - filter for these when picking skills
+  - add a settings window where the list of skills can be edited
+- max flips and max twist settings
+- count shape filter that can be turned off to be shape-agnostic
+- warning modal when the page starts
+- sharing features
+- figure out how to make this into an app
+- filter weird skills out (weird skills filter)
+- remove all the miller plusses
+- advanced settings button w/ popup where list of skills can be accessed
+  - these get saved to local storage and remembered
+- link to FIG notation explanation on github
+- localstorage for settings
+- "I can't do this skill" button
+- collapsible settings and history
+- fix rounded corner rendering issues
+- fix colors
+- theme system
+- keyboard shortcuts
